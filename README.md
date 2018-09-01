@@ -1,3 +1,3 @@
 # test
-For testing only.
+For training only.
 Adding more feature descriptions.
