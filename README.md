@@ -1,3 +1,3 @@
 # test
-For testing only
-Adding more feature descriptions
+For testing only.
+Adding more feature descriptions.
